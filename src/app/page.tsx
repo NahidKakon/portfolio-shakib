@@ -89,7 +89,7 @@ export default function Home() {
     </div>
   </div>
   <div className="column">
-    <img src="https://uhiexemgihhbfkek.public.blob.vercel-storage.com/Portfolio_home-akiM9ZsylpWUG24vtdFcIo6PHShDNh.mp4" style={{ width: "100%" }} />
+    <img src="https://uhiexemgihhbfkek.public.blob.vercel-storage.com/image1-T01WcdzZOv3qNkmaCTjOot7TzRvz54.png" style={{ width: "100%" }} />
   </div>
   <table>
     <tbody>
