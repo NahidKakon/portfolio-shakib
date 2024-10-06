@@ -16,8 +16,10 @@ export default function Home() {
     <div className="column">
       <div className="content">
         <button>
-         className="button">
+      <a href="aboutme/aboutMe.html" className="button">
             About Me
+          </a>
+        
           
         </button>
         <br />
