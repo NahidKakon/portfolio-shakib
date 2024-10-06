@@ -32,7 +32,7 @@ export default function Home() {
         </p>
         <div className="left">
           {/* This div element has position: relative; */}
-          <be/> 
+          <br/> 
           <Button <img   src="https://vercel.com/nahids-projects-a2eed867/~/stores/blob/store_UhIExemgiHHBfkeK/browser?file_url=https%253A%252F%252Fuhiexemgihhbfkek.public.blob.vercel-storage.com%252Fkey_skills-kanPzLU5gjLRwsNGO4P6jWmd36YO1a.jpg"
  style={{ width: "100%" }} />/>
           <br />
