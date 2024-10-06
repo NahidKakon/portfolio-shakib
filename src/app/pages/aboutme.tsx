@@ -34,6 +34,13 @@ export default function AboutMe() {
     </a>
     <div className="desc"></div>
   </div>
+        <style
+  dangerouslySetInnerHTML={{
+    __html:
+      "\ndiv.gallery {\n  margin: 5px;\n  border: 1px solid #ccc;\n  float: left;\n  width: 180px;\n}\n\ndiv.gallery:hover {\n  border: 1px solid #777;\n}\n\ndiv.gallery img {\n  width: 100%;\n  height: auto;\n}\n\ndiv.desc {\n  padding: 15px;\n  text-align: center;\n}\n"
+  }}
+/>
+
 </>
     )
 }
