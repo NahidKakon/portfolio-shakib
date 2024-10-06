@@ -16,7 +16,7 @@ export default function Home() {
     <div className="column">
       <div className="content">
         <button>
-          <a href="About Me/aboutMe.html" className="button">
+          <a href="pages/aboutme.tsx" className="button">
             About Me
           </a>
         </button>
