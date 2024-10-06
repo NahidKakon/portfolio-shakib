@@ -33,11 +33,10 @@ export default function Home() {
         <div className="left">
           {/* This div element has position: relative; */}
           <br/> 
-             <button>
-          <img src="https://vercel.com/nahids-projects-a2eed867/~/stores/blob/store_UhIExemgiHHBfkeK/browser?file_url=https%253A%252F%252Fuhiexemgihhbfkek.public.blob.vercel-storage.com%252Fkey_skills-kanPzLU5gjLRwsNGO4P6jWmd36YO1a.jpg" className="button">
-            My Key Skills
-          />
-        </button>
+          <div className="column">
+    <button> <img src="https://vercel.com/nahids-projects-a2eed867/~/stores/blob/store_UhIExemgiHHBfkeK/browser?file_url=https%253A%252F%252Fuhiexemgihhbfkek.public.blob.vercel-storage.com%252Fkey_skills-kanPzLU5gjLRwsNGO4P6jWmd36YO1a.jpg" className="button">
+            My Key Skills  </button>
+  </div>
           <br />
           <br />
           <br />
