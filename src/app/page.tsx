@@ -16,7 +16,7 @@ export default function Home() {
     <div className="column">
       <div className="content">
         <button>
-          <a href="pages/aboutme.tsx" className="button">
+          <a href="https://github.com/NahidKakon/portfolio-shakib/blob/main/src/app/pages/aboutme.tsx" className="button">
             About Me
           </a>
         </button>
