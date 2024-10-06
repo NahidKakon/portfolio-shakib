@@ -4,11 +4,11 @@ export default function AboutMe() {
     return(
 <>
   <div className="gallery">
-    <a target="_blank" href=""https://vercel.com/nahids-projects-a2eed867/~/stores/blob/store_UhIExemgiHHBfkeK/browser?file_url=https%253A%252F%252Fuhiexemgihhbfkek.public.blob.vercel-storage.com%252Fkey_skills-kanPzLU5gjLRwsNGO4P6jWmd36YO1a.jpg"
-">
+{/*     <a target="_blank" href=""https://vercel.com/nahids-projects-a2eed867/~/stores/blob/store_UhIExemgiHHBfkeK/browser?file_url=https%253A%252F%252Fuhiexemgihhbfkek.public.blob.vercel-storage.com%252Fkey_skills-kanPzLU5gjLRwsNGO4P6jWmd36YO1a.jpg"
+"> */}
       <img src=""https://vercel.com/nahids-projects-a2eed867/~/stores/blob/store_UhIExemgiHHBfkeK/browser?file_url=https%253A%252F%252Fuhiexemgihhbfkek.public.blob.vercel-storage.com%252Fkey_skills-kanPzLU5gjLRwsNGO4P6jWmd36YO1a.jpg"
 " alt="Cinque Terre" width={600} height={400} />
-    </a>
+{/*     </a> */}
     <div className="desc"></div>
   </div>
   <div className="gallery">
