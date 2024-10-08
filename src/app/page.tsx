@@ -2,27 +2,8 @@ import React from "react";
 
 export default function AboutMe() {
     return(
-<>async function VideoComponent({ fileName }) {
-  const {blobs} = await list({
-    prefix: fileName,
-    limit: 2
-  });
-  const { url } = blobs[0];
-  const { url: captionsUrl } = blobs[1];
- 
-  return (
-    <video controls preload="none" aria-label="Video player">
-      <source src={url} type="video/mp4" />
-      <track
-        src={https://vercel.com/nahids-projects-a2eed867/~/stores/blob/store_UhIExemgiHHBfkeK/browser?file_url=https%253A%252F%252Fuhiexemgihhbfkek.public.blob.vercel-storage.com%252Fanimate-W52gTgfs0KDJblI7pslAOOiGnyK7iy.mp4}
-        kind="subtitles"
-        srcLang="en"
-        label="English">
-      Your browser does not support the video tag.
-    </video>
-
-
-    
+<>
+       
   <div className="gallery">
 {/*     <a target="_blank" href=""https://vercel.com/nahids-projects-a2eed867/~/stores/blob/store_UhIExemgiHHBfkeK/browser?file_url=https%253A%252F%252Fuhiexemgihhbfkek.public.blob.vercel-storage.com%252Fkey_skills-kanPzLU5gjLRwsNGO4P6jWmd36YO1a.jpg"
 "> */}
