@@ -11,7 +11,7 @@ export default function AboutMe() {
 {/*     </a> */}
     <div className="desc"></div>
   </div>
-    <div style={{ height: '100vh', display: 'flex', position: 'absolute', overflow: 'hidden', top: 0, left: 0,  objectFit: 'cover', justifyContent: 'left', alignItems: 'left', backgroundColor: '#000' }}>
+    <div style={{ height: '100vh', display: 'flex', position: 'absolute', overflow: 'hidden',  objectFit: 'cover', justifyContent: 'left', alignItems: 'left', backgroundColor: '#000' }}>
       {/* Video that will autoplay, loop, and take up 100% width */}
       
       <video
