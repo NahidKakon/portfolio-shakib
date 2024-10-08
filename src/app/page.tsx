@@ -11,6 +11,18 @@ export default function AboutMe() {
 {/*     </a> */}
     <div className="desc"></div>
   </div>
+    <div style={{ height: '100vh', display: 'flex', position: 'absolute', overflow: 'hidden', top: 0, left: 0,  objectFit: 'cover', justifyContent: 'left', alignItems: 'left', backgroundColor: '#000' }}>
+      {/* Video that will autoplay, loop, and take up 100% width */}
+      
+      <video
+        src="/videos/animate.mp4"  // Path to the video (relative to the public folder)
+        autoPlay   // Automatically starts the video
+        loop       // Continuously plays the video
+        muted      // Mute the video (useful for autoplaying)
+        playsInline  // Ensures the video doesn't go fullscreen on mobile
+        style={{ width: '100%', height: 'auto' }} // Styling to fit video within the page
+      />
+    </div>
   <div className="gallery">
     <a target="_blank" href="https://vercel.com/nahids-projects-a2eed867/~/stores/blob/store_UhIExemgiHHBfkeK/browser?file_url=https%253A%252F%252Fuhiexemgihhbfkek.public.blob.vercel-storage.com%252Faboutme%252Fcareer-ns5YsyJjwHh3swcaRhHulRmADbxPQj.jpg">
       <img src="https://vercel.com/nahids-projects-a2eed867/~/stores/blob/store_UhIExemgiHHBfkeK/browser?file_url=https%253A%252F%252Fuhiexemgihhbfkek.public.blob.vercel-storage.com%252Faboutme%252Fcareer-ns5YsyJjwHh3swcaRhHulRmADbxPQj.jpg" alt="Forest" width={600} height={400} />
